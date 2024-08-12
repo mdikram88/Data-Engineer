@@ -1,0 +1,4 @@
+The bash file with same name
+
+I implemented another practice question of ETL, where i downloaded a txt file, extracted meaningful columns data
+transformed and loaded to csv file and then postgreSQL database

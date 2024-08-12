@@ -1,0 +1,4 @@
+The same name bash file.
+
+I have created an ETL pipeline using shell scripting. Extracted username, user_id and directory from system, transformed and
+loaded in csv file which is later used to connect to PostgreSQL database and push under a created table
